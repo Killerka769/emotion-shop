@@ -51,4 +51,4 @@
 ## 🌐 Демо
 
 Проверьте работу проекта вживую на GitHub Pages:  
-🔗 [https://killerka769.github.io/Home](https://killerka769.github.io/Home)
+🔗 https://killerka769.github.io/emotion-shop/
